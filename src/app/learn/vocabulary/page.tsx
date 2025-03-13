@@ -76,7 +76,7 @@ export default function Page() {
   };
 
   return (
-    <div className="h-[100vh] bg-body">
+    <div className="bg-body">
       <h2 className="text-white text-center text-2xl font-bold">Vocabulary</h2>
       <div style={{ padding: 32 }}>
         <form onSubmit={onFormSubmit}>

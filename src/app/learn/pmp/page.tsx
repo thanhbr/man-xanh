@@ -43,7 +43,7 @@ export default function PMP() {
   }, []);
 
   return (
-    <div className="container bg-body pt-8 pb-20 h-[130vh]">
+    <div className="container bg-body pt-8 pb-20">
       <p className="text-2xl font-bold text-white">PMP Question Time</p>
 
       <div className="mb-4 flex flex-row gap-2">
